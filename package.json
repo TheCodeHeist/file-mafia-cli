@@ -1,0 +1,29 @@
+{
+  "name": "file-mafia-cli",
+  "description": "A free, open-source File Downloader with Command-line Interface; created with JavaScript/NodeJS.",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "bin": {
+    "fmafia": "bin/fmafia",
+    "file-mafia": "bin/fmafia"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheCodeHeist/file-mafia-cli.git"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "chalk": "^4.1.2",
+    "esm": "^3.2.25",
+    "execa": "^5.1.1",
+    "listr": "^0.14.3",
+    "listr2": "^3.13.3",
+    "progress": "^2.0.3"
+  },
+  "author": "Md. Riyasat Hossain (TheCodeHeist)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheCodeHeist/file-mafia-cli/issues"
+  },
+  "homepage": "https://github.com/TheCodeHeist/file-mafia-cli#readme"
+}
