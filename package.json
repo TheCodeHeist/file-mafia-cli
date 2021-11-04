@@ -1,7 +1,7 @@
 {
   "name": "file-mafia-cli",
   "description": "A free, open-source File Downloader with Command-line Interface; created with JavaScript/NodeJS.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "src/index.js",
   "bin": {
     "fmafia": "bin/fmafia",
